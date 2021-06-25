@@ -1,4 +1,5 @@
 from tkinter import *
+import sqlite3
 
 app = Tk()
 app.title('Buguette')
